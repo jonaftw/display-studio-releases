@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-beta.1",
+  "channel": "beta",
+  "date": "2026-11-13",
+  "board": "Orange Pi Zero 2W (4GB)",
+  "recommendedCardGB": 64,
+  "filename": "HYPEMAKERZ-DisplayStudio-Zero2W-1.0.0-beta.1.img.xz",
+  "compressedBytes": 1274460108,
+  "uncompressedBytes": 8589934592,
+  "sha256": "5e309bd2ff2a0a54692e7cb1995c611aae785c640148499e9276ba6972c0d28e",
+  "downloadUrl": "https://github.com/jonaftw/display-studio-releases/releases/download/v1.0.0-beta.1/HYPEMAKERZ-DisplayStudio-Zero2W-1.0.0-beta.1.img.xz",
+  "factoryAssetCount": 278,
+  "hardwareValidated": false,
+  "base": "Orange Pi official Debian 12; October 13 receiver recovery snapshot",
+  "setupSSID": "Hypemakerz Screen"
+}
